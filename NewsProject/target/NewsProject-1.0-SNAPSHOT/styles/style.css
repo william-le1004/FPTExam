@@ -1,0 +1,10 @@
+.box{
+    text-align: center;
+    margin: 20px;
+    padding: 4px;
+    background-color: coral;
+}
+.table{
+    margin: 20px;
+    max-width: 100%;
+}
